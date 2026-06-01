@@ -51,13 +51,6 @@ This project is a clone of the popular instant grocery delivery platform **Blink
 
 ---
 
-## 📸 Screenshots
-
-> *Add your project screenshots here*
-
-| Home Page | Product Page | Cart |
-|-----------|-------------|------|
-| ![home](#) | ![product](#) | ![cart](#) |
 
 ---
 
